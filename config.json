@@ -1,4 +1,4 @@
 { "dashboard_title": "Ward Focal Persons Data Collection Dashboard",
   "round": "Third",
   "coverage_target": 0.80,
-  "refresh_interval_hours": 1 }
+  "refresh_interval_hours": 2 }
